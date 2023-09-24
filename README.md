@@ -1,7 +1,23 @@
 <h1>Shorts Summary Project</h1>
 
-<p>Projeto feito na semana do NLW da Rocketseat</p>
+<h2> 🛠️ Tecnologias Utilizadas</h2>
 
+* HTML
+* CSS
+* JavaScript
+* IA
+
+<br>
+
+
+
+Projeto feito na semana do NLW da [Rocketseat](https://github.com/rocketseat-education)
+
+
+
+<h2>Certificado</h2>
+
+![Captura de tela 2023-09-24 111057](https://github.com/Chrysthy/Shorts-Summary-Project/assets/126017173/af9c30fe-7f40-41a3-88b4-d9a17250e286)
 
 
 <br>
