@@ -9,6 +9,7 @@
 
 <br>
 
+<p> <img height="500em" src="https://github.com/Chrysthy/Shorts-Summary-Project/assets/126017173/8f16df08-e7ff-4b29-8ee8-b76fafd002c3" alt="Shorts Summary"> </p>
 
 
 Projeto feito na semana do NLW da [Rocketseat](https://github.com/rocketseat-education)
